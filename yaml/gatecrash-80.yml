@@ -1,0 +1,116 @@
+---
+object: card
+id: cde6ee2e-a114-4935-8345-d3e264f9fc26
+oracle_id: 3a067b98-e775-4b44-addf-9d31716c2191
+multiverse_ids:
+- 366243
+mtgo_id: 47509
+mtgo_foil_id: 47510
+tcgplayer_id: 67517
+cardmarket_id: 260030
+name: Syndicate Enforcer
+lang: en
+released_at: '2013-02-01'
+uri: https://api.scryfall.com/cards/cde6ee2e-a114-4935-8345-d3e264f9fc26
+scryfall_uri: https://scryfall.com/card/gtc/80/syndicate-enforcer?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/d/cde6ee2e-a114-4935-8345-d3e264f9fc26.jpg?1561846634
+  normal: https://cards.scryfall.io/normal/front/c/d/cde6ee2e-a114-4935-8345-d3e264f9fc26.jpg?1561846634
+  large: https://cards.scryfall.io/large/front/c/d/cde6ee2e-a114-4935-8345-d3e264f9fc26.jpg?1561846634
+  png: https://cards.scryfall.io/png/front/c/d/cde6ee2e-a114-4935-8345-d3e264f9fc26.png?1561846634
+  art_crop: https://cards.scryfall.io/art_crop/front/c/d/cde6ee2e-a114-4935-8345-d3e264f9fc26.jpg?1561846634
+  border_crop: https://cards.scryfall.io/border_crop/front/c/d/cde6ee2e-a114-4935-8345-d3e264f9fc26.jpg?1561846634
+mana_cost: "{3}{B}"
+cmc: 4.0
+type_line: Creature — Human Rogue
+oracle_text: Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each
+  opponent loses 1 life and you gain that much life.)
+power: '3'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Extort
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 035a05f7-e020-4f50-a141-ed16ba704bd2
+set: gtc
+set_name: Gatecrash
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/035a05f7-e020-4f50-a141-ed16ba704bd2
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Agtc&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/gtc?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/cde6ee2e-a114-4935-8345-d3e264f9fc26/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3a067b98-e775-4b44-addf-9d31716c2191&unique=prints
+collector_number: '80'
+digital: false
+rarity: common
+watermark: orzhov
+flavor_text: Even the darkest corners of Ravnica still lie in the shadow of the Church.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steven Belledin
+artist_ids:
+- f07d73b9-52a0-4fe5-858b-61f7b42174a5
+illustration_id: 49d36c9d-52b2-4acf-9044-1f29b47591b7
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 12566
+penny_rank: 10880
+prices:
+  usd: '0.13'
+  usd_foil: '0.42'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.02'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366243
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Syndicate+Enforcer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Syndicate+Enforcer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Syndicate+Enforcer
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/67517?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Syndicate+Enforcer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/47509?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

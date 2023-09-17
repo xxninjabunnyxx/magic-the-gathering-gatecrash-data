@@ -1,0 +1,117 @@
+---
+object: card
+id: 34261992-db62-49e3-95bc-1b2960868de4
+oracle_id: fd68ae3c-52cd-4b20-b015-bd31378d972e
+multiverse_ids:
+- 366365
+mtgo_id: 47763
+mtgo_foil_id: 47764
+tcgplayer_id: 67405
+cardmarket_id: 259868
+name: Signal the Clans
+lang: en
+released_at: '2013-02-01'
+uri: https://api.scryfall.com/cards/34261992-db62-49e3-95bc-1b2960868de4
+scryfall_uri: https://scryfall.com/card/gtc/194/signal-the-clans?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/4/34261992-db62-49e3-95bc-1b2960868de4.jpg?1561822403
+  normal: https://cards.scryfall.io/normal/front/3/4/34261992-db62-49e3-95bc-1b2960868de4.jpg?1561822403
+  large: https://cards.scryfall.io/large/front/3/4/34261992-db62-49e3-95bc-1b2960868de4.jpg?1561822403
+  png: https://cards.scryfall.io/png/front/3/4/34261992-db62-49e3-95bc-1b2960868de4.png?1561822403
+  art_crop: https://cards.scryfall.io/art_crop/front/3/4/34261992-db62-49e3-95bc-1b2960868de4.jpg?1561822403
+  border_crop: https://cards.scryfall.io/border_crop/front/3/4/34261992-db62-49e3-95bc-1b2960868de4.jpg?1561822403
+mana_cost: "{R}{G}"
+cmc: 2.0
+type_line: Instant
+oracle_text: Search your library for three creature cards and reveal them. If you
+  reveal three cards with different names, choose one of them at random and put that
+  card into your hand. Shuffle the rest into your library.
+colors:
+- G
+- R
+color_identity:
+- G
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 035a05f7-e020-4f50-a141-ed16ba704bd2
+set: gtc
+set_name: Gatecrash
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/035a05f7-e020-4f50-a141-ed16ba704bd2
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Agtc&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/gtc?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/34261992-db62-49e3-95bc-1b2960868de4/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afd68ae3c-52cd-4b20-b015-bd31378d972e&unique=prints
+collector_number: '194'
+digital: false
+rarity: rare
+watermark: gruul
+flavor_text: Gruul clanfolk obey few rules, but all feel bound to answer the call
+  of the horn.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dave Kendall
+artist_ids:
+- 8a5540a8-18c9-4fa9-802c-59d6866114d5
+illustration_id: 19061479-8784-4c36-91a0-c7f5375d69bb
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 5625
+penny_rank: 6787
+prices:
+  usd: '0.49'
+  usd_foil: '6.75'
+  usd_etched: 
+  eur: '0.79'
+  eur_foil: '1.99'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366365
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Signal+the+Clans&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Signal+the+Clans&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Signal+the+Clans
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/67405?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Signal+the+Clans&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/47763?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

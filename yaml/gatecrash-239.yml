@@ -1,0 +1,117 @@
+---
+object: card
+id: a0b447a8-524b-4bda-b975-7e194fd741fb
+oracle_id: 73c423b7-cab8-4e69-8070-9edbf96a6c2c
+multiverse_ids:
+- 366390
+mtgo_id: 47449
+mtgo_foil_id: 47450
+tcgplayer_id: 67324
+cardmarket_id: 259827
+name: Boros Guildgate
+lang: en
+released_at: '2013-02-01'
+uri: https://api.scryfall.com/cards/a0b447a8-524b-4bda-b975-7e194fd741fb
+scryfall_uri: https://scryfall.com/card/gtc/239/boros-guildgate?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/0/a0b447a8-524b-4bda-b975-7e194fd741fb.jpg?1561839494
+  normal: https://cards.scryfall.io/normal/front/a/0/a0b447a8-524b-4bda-b975-7e194fd741fb.jpg?1561839494
+  large: https://cards.scryfall.io/large/front/a/0/a0b447a8-524b-4bda-b975-7e194fd741fb.jpg?1561839494
+  png: https://cards.scryfall.io/png/front/a/0/a0b447a8-524b-4bda-b975-7e194fd741fb.png?1561839494
+  art_crop: https://cards.scryfall.io/art_crop/front/a/0/a0b447a8-524b-4bda-b975-7e194fd741fb.jpg?1561839494
+  border_crop: https://cards.scryfall.io/border_crop/front/a/0/a0b447a8-524b-4bda-b975-7e194fd741fb.jpg?1561839494
+mana_cost: ''
+cmc: 0.0
+type_line: Land — Gate
+oracle_text: |-
+  Boros Guildgate enters the battlefield tapped.
+  {T}: Add {R} or {W}.
+colors: []
+color_identity:
+- R
+- W
+keywords: []
+produced_mana:
+- R
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 035a05f7-e020-4f50-a141-ed16ba704bd2
+set: gtc
+set_name: Gatecrash
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/035a05f7-e020-4f50-a141-ed16ba704bd2
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Agtc&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/gtc?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a0b447a8-524b-4bda-b975-7e194fd741fb/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A73c423b7-cab8-4e69-8070-9edbf96a6c2c&unique=prints
+collector_number: '239'
+digital: false
+rarity: common
+watermark: boros
+flavor_text: Enter with merciful hearts. Exit with battle cries.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Noah Bradley
+artist_ids:
+- 81995d11-da98-4f8b-89bd-b88ca2ddb06b
+illustration_id: 7bcb510d-9729-41c5-97e8-7d0cd9ac92ff
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1137
+penny_rank: 1148
+prices:
+  usd: '0.12'
+  usd_foil: '0.96'
+  usd_etched: 
+  eur: '0.12'
+  eur_foil: '0.79'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366390
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Boros+Guildgate&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Boros+Guildgate&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Boros+Guildgate
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/67324?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Boros+Guildgate&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/47449?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

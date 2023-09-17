@@ -1,0 +1,130 @@
+---
+object: card
+id: 42d1122a-099b-49bf-9b53-52429658816a
+oracle_id: f211d21f-7d78-4435-a592-a6896023af3b
+multiverse_ids:
+- 366429
+mtgo_id: 47459
+mtgo_foil_id: 47460
+tcgplayer_id: 67395
+cardmarket_id: 259869
+name: Sunhome Guildmage
+lang: en
+released_at: '2013-02-01'
+uri: https://api.scryfall.com/cards/42d1122a-099b-49bf-9b53-52429658816a
+scryfall_uri: https://scryfall.com/card/gtc/200/sunhome-guildmage?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/2/42d1122a-099b-49bf-9b53-52429658816a.jpg?1561824543
+  normal: https://cards.scryfall.io/normal/front/4/2/42d1122a-099b-49bf-9b53-52429658816a.jpg?1561824543
+  large: https://cards.scryfall.io/large/front/4/2/42d1122a-099b-49bf-9b53-52429658816a.jpg?1561824543
+  png: https://cards.scryfall.io/png/front/4/2/42d1122a-099b-49bf-9b53-52429658816a.png?1561824543
+  art_crop: https://cards.scryfall.io/art_crop/front/4/2/42d1122a-099b-49bf-9b53-52429658816a.jpg?1561824543
+  border_crop: https://cards.scryfall.io/border_crop/front/4/2/42d1122a-099b-49bf-9b53-52429658816a.jpg?1561824543
+mana_cost: "{R}{W}"
+cmc: 2.0
+type_line: Creature — Human Wizard
+oracle_text: |-
+  {1}{R}{W}: Creatures you control get +1/+0 until end of turn.
+  {2}{R}{W}: Create a 1/1 red and white Soldier creature token with haste.
+power: '2'
+toughness: '2'
+colors:
+- R
+- W
+color_identity:
+- R
+- W
+keywords: []
+all_parts:
+- object: related_card
+  id: a8a5a5a5-a8ae-41ed-9af5-b99d80ce0b35
+  component: token
+  name: Soldier
+  type_line: Token Creature — Soldier
+  uri: https://api.scryfall.com/cards/a8a5a5a5-a8ae-41ed-9af5-b99d80ce0b35
+- object: related_card
+  id: 42d1122a-099b-49bf-9b53-52429658816a
+  component: combo_piece
+  name: Sunhome Guildmage
+  type_line: Creature — Human Wizard
+  uri: https://api.scryfall.com/cards/42d1122a-099b-49bf-9b53-52429658816a
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 035a05f7-e020-4f50-a141-ed16ba704bd2
+set: gtc
+set_name: Gatecrash
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/035a05f7-e020-4f50-a141-ed16ba704bd2
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Agtc&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/gtc?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/42d1122a-099b-49bf-9b53-52429658816a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af211d21f-7d78-4435-a592-a6896023af3b&unique=prints
+collector_number: '200'
+digital: false
+rarity: uncommon
+watermark: boros
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Eric Deschamps
+artist_ids:
+- 37970e22-9cee-44c1-af44-5ee27cf26b76
+illustration_id: 14bb3b7a-0342-41b8-8bb8-63a4ee0fb66e
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 12815
+penny_rank: 7901
+prices:
+  usd: '0.05'
+  usd_foil: '0.42'
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: '0.74'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366429
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sunhome+Guildmage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sunhome+Guildmage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sunhome+Guildmage
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/67395?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sunhome+Guildmage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/47459?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

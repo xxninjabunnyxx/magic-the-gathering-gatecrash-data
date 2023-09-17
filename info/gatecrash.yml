@@ -1,0 +1,21 @@
+---
+object: set
+id: 035a05f7-e020-4f50-a141-ed16ba704bd2
+code: gtc
+mtgo_code: gtc
+arena_code: gtc
+tcgplayer_id: 569
+name: Gatecrash
+uri: https://api.scryfall.com/sets/035a05f7-e020-4f50-a141-ed16ba704bd2
+scryfall_uri: https://scryfall.com/sets/gtc
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Agtc&unique=prints
+released_at: '2013-02-01'
+set_type: expansion
+card_count: 249
+printed_size: 249
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: rtr
+block: Return to Ravnica
+icon_svg_uri: https://svgs.scryfall.io/sets/gtc.svg?1694404800

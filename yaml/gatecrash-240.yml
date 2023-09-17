@@ -1,0 +1,116 @@
+---
+object: card
+id: ece3bcdd-cb33-4923-b919-ba57a327d3cd
+oracle_id: 20283c4a-f1f0-42f0-bc08-6da87474426b
+multiverse_ids:
+- 366291
+mtgo_id: 47475
+mtgo_foil_id: 47476
+tcgplayer_id: 67319
+cardmarket_id: 259828
+name: Breeding Pool
+lang: en
+released_at: '2013-02-01'
+uri: https://api.scryfall.com/cards/ece3bcdd-cb33-4923-b919-ba57a327d3cd
+scryfall_uri: https://scryfall.com/card/gtc/240/breeding-pool?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/c/ece3bcdd-cb33-4923-b919-ba57a327d3cd.jpg?1561851218
+  normal: https://cards.scryfall.io/normal/front/e/c/ece3bcdd-cb33-4923-b919-ba57a327d3cd.jpg?1561851218
+  large: https://cards.scryfall.io/large/front/e/c/ece3bcdd-cb33-4923-b919-ba57a327d3cd.jpg?1561851218
+  png: https://cards.scryfall.io/png/front/e/c/ece3bcdd-cb33-4923-b919-ba57a327d3cd.png?1561851218
+  art_crop: https://cards.scryfall.io/art_crop/front/e/c/ece3bcdd-cb33-4923-b919-ba57a327d3cd.jpg?1561851218
+  border_crop: https://cards.scryfall.io/border_crop/front/e/c/ece3bcdd-cb33-4923-b919-ba57a327d3cd.jpg?1561851218
+mana_cost: ''
+cmc: 0.0
+type_line: Land — Forest Island
+oracle_text: |-
+  ({T}: Add {G} or {U}.)
+  As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
+colors: []
+color_identity:
+- G
+- U
+keywords: []
+produced_mana:
+- G
+- U
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 035a05f7-e020-4f50-a141-ed16ba704bd2
+set: gtc
+set_name: Gatecrash
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/035a05f7-e020-4f50-a141-ed16ba704bd2
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Agtc&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/gtc?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ece3bcdd-cb33-4923-b919-ba57a327d3cd/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A20283c4a-f1f0-42f0-bc08-6da87474426b&unique=prints
+collector_number: '240'
+digital: false
+rarity: rare
+watermark: simic
+flavor_text: Uncharted depths. Unbounded hopes. Unfathomable mysteries.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mike Bierek
+artist_ids:
+- e5f52ef5-1a2e-4128-90b0-ccc71cd47ea7
+illustration_id: 4006941a-88e0-4191-969c-e47a1239e10a
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 73
+prices:
+  usd: '17.00'
+  usd_foil: '30.01'
+  usd_etched: 
+  eur: '17.39'
+  eur_foil: '24.99'
+  tix: '0.40'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366291
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Breeding+Pool&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Breeding+Pool&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Breeding+Pool
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/67319?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Breeding+Pool&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/47475?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

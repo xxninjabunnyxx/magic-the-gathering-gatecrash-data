@@ -1,0 +1,115 @@
+---
+object: card
+id: 8bbf10ce-69e0-4984-91a3-f65df919830d
+oracle_id: '01805d0d-3a72-4d26-9475-3e68c278b7fe'
+multiverse_ids:
+- 366314
+mtgo_id: 47653
+mtgo_foil_id: 47654
+tcgplayer_id: 67582
+cardmarket_id: 260034
+name: Cinder Elemental
+lang: en
+released_at: '2013-02-01'
+uri: https://api.scryfall.com/cards/8bbf10ce-69e0-4984-91a3-f65df919830d
+scryfall_uri: https://scryfall.com/card/gtc/87/cinder-elemental?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/b/8bbf10ce-69e0-4984-91a3-f65df919830d.jpg?1592485601
+  normal: https://cards.scryfall.io/normal/front/8/b/8bbf10ce-69e0-4984-91a3-f65df919830d.jpg?1592485601
+  large: https://cards.scryfall.io/large/front/8/b/8bbf10ce-69e0-4984-91a3-f65df919830d.jpg?1592485601
+  png: https://cards.scryfall.io/png/front/8/b/8bbf10ce-69e0-4984-91a3-f65df919830d.png?1592485601
+  art_crop: https://cards.scryfall.io/art_crop/front/8/b/8bbf10ce-69e0-4984-91a3-f65df919830d.jpg?1592485601
+  border_crop: https://cards.scryfall.io/border_crop/front/8/b/8bbf10ce-69e0-4984-91a3-f65df919830d.jpg?1592485601
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Creature — Elemental
+oracle_text: "{X}{R}, {T}, Sacrifice Cinder Elemental: It deals X damage to any target."
+power: '2'
+toughness: '2'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 035a05f7-e020-4f50-a141-ed16ba704bd2
+set: gtc
+set_name: Gatecrash
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/035a05f7-e020-4f50-a141-ed16ba704bd2
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Agtc&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/gtc?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8bbf10ce-69e0-4984-91a3-f65df919830d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A01805d0d-3a72-4d26-9475-3e68c278b7fe&unique=prints
+collector_number: '87'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "The old gods awoke and sent fingers of fire to see what was left of the old ways under the endless city."
+  —Daiva, Gruul storyteller
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Svetlin Velinov
+artist_ids:
+- ffd063ae-c097-4f26-b2e6-b1e2137708bc
+illustration_id: b5ba4561-6f7d-4849-b7af-357a34336e26
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 17977
+penny_rank: 2352
+prices:
+  usd: '0.05'
+  usd_foil: '0.19'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.25'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366314
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cinder+Elemental&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cinder+Elemental&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Cinder+Elemental
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/67582?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cinder+Elemental&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/47653?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
